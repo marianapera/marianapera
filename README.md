@@ -1,6 +1,6 @@
 ### Oi, eu sou a Mari 💗
 
-[![card](https://github-readme-stats.vercel.app/api?username=marianapera&theme=radical&show_icons=true)](https://github.com/marianapera/)
+[![card](https://github-readme-stats.vercel.app/api?username=marianapera&theme=buefy&show_icons=true)](https://github.com/marianapera/)
 <!--
 **marianapera/marianapera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
