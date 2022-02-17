@@ -1,4 +1,4 @@
-### Oi, eu sou a Mari 💗
+### Oi! Eu sou a Mari 💗
 
 [![card](https://github-readme-stats.vercel.app/api?username=marianapera&theme=buefy&show_icons=true&bg_color=141321&text_color=F5F5F5)](https://github.com/marianapera/)
 
