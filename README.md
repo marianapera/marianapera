@@ -1,5 +1,7 @@
-### Oioi, eu sou a Mari 💗
+### Oioi, eu sou a Mari!
 ---
+* Estudante
+* Aprendendo `.html`
 
 [![card](https://github-readme-stats.vercel.app/api?username=marianapera&theme=buefy&show_icons=true&bg_color=141321&text_color=F5F5F5)](https://github.com/marianapera/)
 
