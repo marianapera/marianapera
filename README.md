@@ -1,4 +1,5 @@
-## Oioi, eu sou a Mari 💜
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=BlinkMacSystemFont&duration=4000&pause=2000&color=B837F9&width=435&height=40&lines=Oioi%2C+eu+sou+a+Mariana" alt="Typing SVG" /></a>
+---
 
 [![marianapera](https://github-readme-stats.vercel.app/api?username=marianapera&layout=compact&theme=radical&show_icons=true&bg_color=141321&text_color=F5F5F5)](https://github.com/marianapera/)
 
